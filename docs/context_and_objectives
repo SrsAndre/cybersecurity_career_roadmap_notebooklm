@@ -1,1 +1,58 @@
+# Context and Objectives
 
+## Project Context
+
+This project is the result of a Bootcamp Bradesco - GenAI, Dados & Cyber, that I started to understand more about cybersecurity and think if I want to make a carrer change to this field. At the same time, I search about how to start in this area,a nd find to many resources and influencers that takl about it. Notecing that I had difficulties to understanding what I should study first, which technical skills are truly essential, and which certifications provide the best entry point into the industry.
+
+With the increasing availability of Artificial Intelligence tools for learning and research, platforms such as NotebookLM can help organize information, summarize technical materials, compare concepts, and accelerate the study process. However, effective learning still depends on critical thinking, source validation, and well-structured prompt engineering.
+
+This project was developed as part of the DIO bootcamp challenge, combining Artificial Intelligence, cybersecurity research, and knowledge organization using NotebookLM and GitHub.
+
+The thematic focus of this study is:
+
+> What technical skills and certifications are necessary to start a career in cybersecurity.
+
+The repository documents the complete learning process, including source curation, prompt experimentation, troubleshooting, AI-assisted summaries, and the creation of a structured study mini-guide. 
+
+---
+
+## Project Objectives
+
+The main objective of this project is to investigate and organize the foundational knowledge required for beginners entering the cybersecurity field.
+
+This study aims to:
+
+- Identify the most important technical skills for entry-level cybersecurity professionals;
+- Understand the role of networking, operating systems, security fundamentals, and practical tools in cybersecurity careers;
+- Research beginner-friendly cybersecurity certifications and their market relevance;
+- Use NotebookLM as an AI-assisted research and study tool;
+- Practice prompt engineering techniques to improve the quality of AI-generated responses;
+- Document the learning process, including challenges and prompt iterations;
+- Create a reusable study guide for future cybersecurity learning and revision.
+
+---
+
+## Expected Outcomes
+
+By the end of this project, the expected outcomes are:
+
+- A structured cybersecurity study mini-guide;
+- A glossary containing important cybersecurity concepts and terminology;
+- A curated list of reliable learning sources;
+- A documented collection of reusable prompts;
+- A GitHub repository demonstrating research organization, AI-assisted learning, and technical documentation practices.
+
+---
+
+## Technologies and Tools Used
+
+- NotebookLM
+- GitHub
+- Markdown
+- Artificial Intelligence for assisted learning and summarization
+
+---
+
+## Learning Approach
+
+This project does not aim to replace traditional learning methods or practical experience. Instead, it explores how Artificial Intelligence can support active learning, accelerate research workflows, and improve knowledge organization when combined with critical analysis and reliable sources.                                              
