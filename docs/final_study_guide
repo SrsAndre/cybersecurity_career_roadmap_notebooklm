@@ -69,3 +69,38 @@ Learning Platforms & Resources
 >> SANS StormCast (Dailt Threats)
 >> OWASP Top 10 (Web Risks)
 >> GRC Mastery (Frameworks)
+
+---------------------------------------------------
+
+Career roadmap & Strategy
+> Phase 1: Foundation
+>> IT Support Basic
+>> Networking Fundamentals
+>> Linux Naviagting
+
+> Phase 2: Building Proof
+>> Home Lab Projects
+>> GitHub Script Repository
+>> Bolg/Linkedin Write-ups
+>> Capture the Flag (CTF) Participation
+
+> Phase 3: Job entry paths
+>> Help Desk/IT support
+>> IAM support
+>> Junior GRC Analyst
+>> Tier 1 SOC Analyst
+
+> Ai Integration
+>> Prompt Engineering
+>> AI-Drive Threat Detection
+>> Securing GenAI Applications
+
+---------------------------------------------------
+
+Dialy SOC Analyst Taks
+> Alert Monitoring: SIEM/Splunk
+> SOAR Automation Playbooks
+> Phishing Email Triage
+> Incident Response & IOC Hunting
+> Vulnerability Remediation: EDR/CrowdStrike
+> Compliance Checklist Management
