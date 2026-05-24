@@ -1,1 +1,158 @@
+# Prompt Engineering and AI Interaction
 
+## Introduction
+
+During the development of this project, NotebookLM was used as an AI-assisted learning and research tool to explore cybersecurity fundamentals, entry-level certifications, career paths, and technical skills required for beginners entering the cybersecurity field.
+
+The objective of the prompt engineering process was not only to obtain answers, but also to improve the quality, clarity, specificity, and reliability of the AI-generated responses through iterative questioning and contextual refinement.
+
+This section documents the prompts used during the study process, the reasoning behind them, and the insights gained while interacting with the AI model.
+
+---
+
+# Initial Exploratory Prompts
+
+The first stage focused on broad exploratory questions designed to establish a foundational understanding of cybersecurity careers and beginner requirements.
+
+## Prompt 1
+
+> "What are the foundational technical skills required for cybersecurity beginners?"
+
+### Objective
+
+The purpose of this prompt was to identify the core technical competencies expected from individuals starting in cybersecurity, such as networking, operating systems, scripting, and security fundamentals.
+
+### Insights Obtained
+
+The response helped identify recurring foundational topics across multiple sources, including:
+
+- Networking fundamentals;
+- Linux and operating system basics;
+- Understanding of cybersecurity concepts;
+- Basic scripting and automation;
+- Problem-solving and analytical thinking.
+
+### Observations
+
+The initial response was useful for broad orientation, but still relatively generic. More refined prompts were later necessary to extract practical learning priorities and better career-focused guidance.
+
+---
+
+## Prompt 2
+
+> "What is Cybersecurity?"
+
+### Objective
+
+This prompt was used to establish a high-level conceptual understanding of cybersecurity before exploring technical skills and certifications.
+
+### Insights Obtained
+
+The AI explained cybersecurity as the practice of protecting systems, networks, applications, and data against unauthorized access, attacks, and digital threats.
+
+The response also introduced important cybersecurity domains, including:
+
+- Network Security;
+- Application Security;
+- Cloud Security;
+- Ethical Hacking;
+- Incident Response;
+- Governance and Risk Management.
+
+---
+
+## Prompt 3
+
+> "How is possible to someone that doesn't have a degree enter the area? And what is a real expected time to get the first job?"
+
+### Objective
+
+The purpose of this prompt was to understand realistic entry paths into cybersecurity for individuals without formal university degrees, as well as expected timelines for obtaining a first job in the industry.
+
+### Insights Obtained
+
+The response highlighted that many cybersecurity professionals enter the field through:
+
+- Self-study;
+- Certifications;
+- Home labs and practical projects;
+- Networking communities;
+- Entry-level IT roles;
+- Portfolio and GitHub projects.
+
+The AI also suggested that the timeline for obtaining a first cybersecurity-related role can vary depending on study consistency, practical experience, networking, and local job market conditions.
+
+### Observations
+
+This prompt produced more practical and career-oriented insights than the previous conceptual prompts. However, some parts of the response were overly optimistic regarding hiring timelines.
+
+This reinforced the importance of validating AI-generated career advice against real-world market expectations and multiple external sources.
+
+---
+
+## Prompt 4
+
+> "What are the best free certifications to get started?"
+
+### Objective
+
+This prompt aimed to identify beginner-friendly certifications and free educational resources that could help newcomers build foundational cybersecurity knowledge.
+
+### Insights Obtained
+
+The AI identified several accessible starting points, including certifications and training platforms from organizations such as:
+
+- Cisco Skills for All;
+- ISC2 Candidate Program;
+- Fortinet Training Institute;
+- Google Cybersecurity resources;
+- CompTIA learning materials.
+
+The response also emphasized the importance of combining certifications with hands-on practice and portfolio development.
+
+### Observations
+
+The generated response provided useful direction, but required additional verification regarding:
+
+- certification availability;
+- current pricing models;
+- exam costs;
+- regional access limitations;
+- and industry recognition.
+
+This stage demonstrated the importance of validating AI-generated educational recommendations with official certification providers.
+
+---
+
+# Lessons Learned During Prompt Engineering
+
+Throughout the interaction process, several important observations were identified:
+
+- Broad prompts usually generate broad and generic answers;
+- More context-specific prompts improve response quality significantly;
+- Restricting responses to uploaded sources can improve factual consistency;
+- AI-generated career advice should always be critically evaluated;
+- Iterative prompt refinement is essential for extracting higher-quality information.
+
+---
+
+# Future Prompt Improvements
+
+Future iterations of this project may include prompts with:
+
+- source restrictions;
+- role-specific comparisons;
+- salary and market analysis;
+- certification roadmap generation;
+- practical lab recommendations;
+- and beginner project suggestions.
+
+Example of a more refined future prompt:
+
+> "Based only on the uploaded sources, create a beginner cybersecurity roadmap focused on technical skills, certifications, and practical projects for someone without a university degree."
+
+---
+
+# Conclusion
+
+The prompt engineering process played an important role in transforming NotebookLM from a simple summarization tool into an active learning assistant. By iteratively refining prompts, validating responses, and documenting limitations, the project demonstrated how AI can support structured learning workflows when combined with critical thinking and reliable sources.
